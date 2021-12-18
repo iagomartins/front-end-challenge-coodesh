@@ -1,0 +1,12 @@
+/* app global css */
+
+.project-description {
+    max-width: 400px;
+    margin: auto;
+}
+
+@media (max-width: 892px) {
+    .project-description {
+        margin: 0 3vw;
+    }
+}
