@@ -1,5 +1,7 @@
 /* app global css */
-
+.q-page {
+    overflow: scroll;
+}
 .project-description {
     max-width: 400px;
     margin: auto;
